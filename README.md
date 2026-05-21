@@ -162,5 +162,6 @@ This project is licensed under the **ISC License**.
 ---
 
 <div align="center">
-  Built with ❤️ — MARQUE DESIGN
+  Built with ❤️ — GHOSTINMODEL
+
 </div>
